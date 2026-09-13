@@ -3,7 +3,7 @@
   "wake_word": "James",
   "author": "",
   "website": "",
-  "model": "https://raw.githubusercontent.com/z7dnjv5dgm-hub/wake-word-james/main/james.tflite",
+  "model": "james.tflite",
   "trained_languages": [
     "en"
   ],
